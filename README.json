@@ -29,7 +29,7 @@
             "last_commit": "2026-06-30T18:21:16Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 495770
+            "stars": 496119
           }
         },
         {
@@ -51,7 +51,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T22:27:58.506Z",
+    "last_updated": "2026-08-15T22:26:31.002Z",
     "original_repository": "errilaz/awesome-js-runtimes",
     "original_repository_sha": "29f19f74ea8d464e566225a7d26a34a51c55bf2c",
     "enhanced_repository": "enhansome/enhansome-js-runtimes",
