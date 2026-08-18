@@ -26,10 +26,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-06-30T18:21:16Z",
+            "last_commit": "2026-08-18T13:28:50Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 496979
+            "stars": 497400
           }
         },
         {
@@ -43,7 +43,7 @@
             "last_commit": "2026-08-05T06:51:19Z",
             "owner": "Elanis",
             "repo": "web-to-desktop-framework-comparison",
-            "stars": 1985
+            "stars": 1986
           }
         }
       ],
@@ -51,7 +51,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T22:28:54.841Z",
+    "last_updated": "2026-08-18T22:27:42.365Z",
     "original_repository": "errilaz/awesome-js-runtimes",
     "original_repository_sha": "29f19f74ea8d464e566225a7d26a34a51c55bf2c",
     "enhanced_repository": "enhansome/enhansome-js-runtimes",
