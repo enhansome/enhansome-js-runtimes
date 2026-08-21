@@ -12,10 +12,10 @@
             "archived": false,
             "id": 21737465,
             "language": null,
-            "last_commit": "2026-08-18T13:28:50Z",
+            "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 498223
+            "stars": 498634
           }
         },
         {
@@ -38,7 +38,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T22:31:32.198Z",
+    "last_updated": "2026-08-21T22:28:53.358Z",
     "original_repository": "errilaz/awesome-js-runtimes",
     "original_repository_id": 590902764,
     "original_repository_sha": "29f19f74ea8d464e566225a7d26a34a51c55bf2c",
