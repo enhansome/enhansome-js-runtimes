@@ -21,7 +21,7 @@
 
 ## Links
 
-* [Other Awesome lists](https://github.com/sindresorhus/awesome#contents) ⭐ 499,707 | 🐛 106 | 📅 2026-08-21
+* [Other Awesome lists](https://github.com/sindresorhus/awesome#contents) ⭐ 499,905 | 🐛 106 | 📅 2026-08-21
 * [Web to Desktop framework comparison](https://github.com/Elanis/web-to-desktop-framework-comparison) ⭐ 1,988 | 🐛 36 | 🌐 JavaScript | 📅 2026-08-05
 * [List of ECMAScript engines](https://en.wikipedia.org/wiki/List_of_ECMAScript_engines) at Wikipedia
 
