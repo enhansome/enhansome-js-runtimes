@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 499608
+            "stars": 499707
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-05T06:51:19Z",
             "owner": "Elanis",
             "repo": "web-to-desktop-framework-comparison",
-            "stars": 1987
+            "stars": 1988
           }
         }
       ],
@@ -38,7 +38,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T22:30:50.209Z",
+    "last_updated": "2026-08-25T06:29:52.125Z",
     "original_repository": "errilaz/awesome-js-runtimes",
     "original_repository_id": 590902764,
     "original_repository_sha": "29f19f74ea8d464e566225a7d26a34a51c55bf2c",
