@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500268
+            "stars": 500363
           }
         },
         {
@@ -38,9 +38,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T03:00:43.649Z",
-    "original_repository": "errilaz/awesome-js-runtimes",
-    "original_repository_id": 590902764,
+    "last_updated": "2026-08-27T11:44:56.354Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 590902764,
+      "language": null,
+      "last_commit": "2025-05-04T18:47:51Z",
+      "owner": "errilaz",
+      "repo": "awesome-js-runtimes",
+      "stars": 179
+    },
     "original_repository_sha": "29f19f74ea8d464e566225a7d26a34a51c55bf2c",
     "enhanced_repository": "enhansome/enhansome-js-runtimes",
     "enhanced_repository_description": null,
