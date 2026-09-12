@@ -21,12 +21,12 @@
 
 ## Links
 
-* [Other Awesome lists](https://github.com/sindresorhus/awesome#contents) ⭐ 505,151 | 🐛 106 | 📅 2026-09-02
-* [Web to Desktop framework comparison](https://github.com/Elanis/web-to-desktop-framework-comparison) ⭐ 1,991 | 🐛 39 | 🌐 JavaScript | 📅 2026-09-04
+* [Other Awesome lists](https://github.com/sindresorhus/awesome#contents) ⭐ 505,459 | 🐛 106 | 📅 2026-09-02
+* [Web to Desktop framework comparison](https://github.com/Elanis/web-to-desktop-framework-comparison) ⭐ 1,992 | 🐛 39 | 🌐 JavaScript | 📅 2026-09-04
 * [List of ECMAScript engines](https://en.wikipedia.org/wiki/List_of_ECMAScript_engines) at Wikipedia
 
 Built with [PocketPress](https://github.com/errilaz/pocketpress) ⭐ 0 | 🐛 3 | 🌐 TypeScript | 📅 2023-01-31
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
