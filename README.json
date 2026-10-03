@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Other Awesome lists",
-          "description": null,
+          "description": "sindresorhus/awesome",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -19,7 +19,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 513743,
+            "stars": 513797,
             "topics": [
               "awesome",
               "awesome-list",
@@ -33,7 +33,7 @@
         {
           "node_type": "item",
           "title": "Web to Desktop framework comparison",
-          "description": null,
+          "description": "Elanis/web-to-desktop-framework-comparison",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -72,7 +72,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:59:59.274Z",
+    "last_updated": "2026-10-03T04:54:36.136Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of JavaScript/ECMAScript runtimes, app frameworks, and engines.",
