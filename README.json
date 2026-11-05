@@ -19,7 +19,7 @@
             "open_issues": 103,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 530371,
+            "stars": 531030,
             "topics": [
               "awesome",
               "awesome-list",
@@ -46,7 +46,7 @@
             "open_issues": 37,
             "owner": "Elanis",
             "repo": "web-to-desktop-framework-comparison",
-            "stars": 2004,
+            "stars": 2006,
             "topics": [
               "benchmark",
               "characteristics",
@@ -72,7 +72,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T02:01:33.425Z",
+    "last_updated": "2026-11-05T02:03:52.597Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of JavaScript/ECMAScript runtimes, app frameworks, and engines.",
