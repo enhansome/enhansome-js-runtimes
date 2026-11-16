@@ -19,7 +19,7 @@
             "open_issues": 104,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 536968,
+            "stars": 537524,
             "topics": [
               "awesome",
               "awesome-list",
@@ -72,7 +72,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T01:36:25.659Z",
+    "last_updated": "2026-11-16T01:40:08.052Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of JavaScript/ECMAScript runtimes, app frameworks, and engines.",
